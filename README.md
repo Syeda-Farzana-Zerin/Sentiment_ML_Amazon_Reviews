@@ -1,0 +1,1 @@
+This project investigates the use of machine learning to predict sentiment in Amazon review texts. It aimed to develop a machine learning model that tries to accurately classifies Amazon reviews as negative and positive.
